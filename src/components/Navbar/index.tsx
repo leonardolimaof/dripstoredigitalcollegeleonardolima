@@ -1,7 +1,5 @@
 export const Navbar = () => {
     return (
-        <>
-            Navbar
-        </>
+        <h1 className="text-primary text-6xl font-bold">Digital College</h1>
     )
 };
