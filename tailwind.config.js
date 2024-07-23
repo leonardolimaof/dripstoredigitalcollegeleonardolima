@@ -16,6 +16,7 @@ export default {
       warning: '#F6AA1C',
       primaryBg: 'linear-gradient(180deg, #C92071 0%, #EDABCA 100%)',
       secondaryBg: 'linear-gradient(180deg, #B5B6F2 0%, #EFEFFF 100%)',
+      white: '#FFFFFF',
 
     },
     extend: {},
